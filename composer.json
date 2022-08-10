@@ -1,5 +1,5 @@
 {
-    "name": "chetantechnource/php-graph-sdk",
+    "name": "chetantechnource/php8.1-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
